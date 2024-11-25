@@ -1,0 +1,10 @@
+DROP TABLE RepairOperation_Part;
+DROP TABLE Master_MasterSchedule;
+DROP TABLE Contract;
+DROP TABLE PartOrder;
+DROP TABLE Car;
+DROP TABLE Client;
+DROP TABLE Master;
+DROP TABLE RepairOperation;
+DROP TABLE Part;
+DROP TABLE MasterSchedule;
